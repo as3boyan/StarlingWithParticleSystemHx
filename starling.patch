@@ -1,0 +1,6 @@
+-starling.core.Starling.context;
+-starling.core.Starling.contentScaleFactor;
+-starling.core.Starling.juggler;
+-starling.core.RenderSupport.clear;
+-starling.extensions.ColorArgb.fromArgb;
+-starling.extensions.ColorArgb.fromRgb;

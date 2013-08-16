@@ -1,0 +1,12 @@
+{
+ "name": "starlingparticles.hx",
+ "url" : "https://github.com/as3boyan/StarlingWithParticleSystemHx",
+ "license": "BSD",
+ "tags": ["starling","game","framework","flash","gpu", "particle system"],
+ "description": "Haxe externs for Starling with particle extension(Starling included)",
+ "version": "1.0.0",
+ "releasenote": "release",
+ "contributors": ["as3boyan"],
+ "dependencies": { 
+ }
+}

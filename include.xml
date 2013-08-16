@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<compilerflag name="-swf-lib StarlingWithParticleSystemhx.swc" if="flash" />
+	<compilerflag name="--macro patchTypes('starling.patch')" if="flash" />
+	<app swf-version="11.2" />
+	<haxedef name="as3_native" />
+
+</project>
